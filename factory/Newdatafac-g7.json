@@ -1,0 +1,9 @@
+{
+	"name": "Newdatafac-g7",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e92d0988-e7ec-4567-8add-a1263dddf79f",
+		"tenantId": "380a88f6-5447-406c-bebb-2c908f53f0a3"
+	}
+}
