@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Newdatafac-g7"
+		},
+		"AzureMLService1_properties_typeProperties_subscriptionId": {
+			"value": "a9376639-dcf8-444f-a34f-8662e2248b57"
+		},
+		"AzureMLService1_properties_typeProperties_resourceGroupName": {
+			"value": "Ammar-DF"
+		},
+		"AzureMLService1_properties_typeProperties_mlWorkspaceName": {
+			"value": "NewMLWorkspace1"
+		}
+	}
+}
