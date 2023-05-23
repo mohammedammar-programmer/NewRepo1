@@ -44,7 +44,7 @@
 						"userProperties": [],
 						"typeProperties": {
 							"mlExecutionType": "pipeline",
-							"mlPipelineId": "82b1e1d8-48eb-4327-88d6-947d726d95fc"
+							"mlPipelineEndpointId": "ec12bc29-8893-4bd8-91c0-88c2e111ec03"
 						},
 						"linkedServiceName": {
 							"referenceName": "AzureMLService1",
