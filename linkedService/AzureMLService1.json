@@ -1,0 +1,13 @@
+{
+	"name": "AzureMLService1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureMLService",
+		"typeProperties": {
+			"subscriptionId": "a9376639-dcf8-444f-a34f-8662e2248b57",
+			"resourceGroupName": "Ammar-DF",
+			"mlWorkspaceName": "NewMLWorkspace1",
+			"authentication": "MSI"
+		}
+	}
+}
